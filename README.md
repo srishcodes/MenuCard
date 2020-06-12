@@ -7,7 +7,8 @@ Solutions to Modules
 
 
 **MODULE 2**
-[Solution](https://srishcodes.github.io/MenuCard/mod2_soln/)
+* [Assignment description](./descriptions/assignment2/Assignment-2.md)
+*[Solution](https://srishcodes.github.io/MenuCard/mod2_soln/)
 
 
 
