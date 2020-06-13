@@ -1,19 +1,30 @@
-<!D<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <title>The Box Model</title>
 <style>
+ * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ 
 
 body {
-  background-color: gray;
+  background-color: pink;
 }
 
 #box {
-  background-color: blue;
+  background-color: yellow;
+  padding: 10px;
+  border: 5px solid black;
+  width: 300px;
+ margin-top: 50px;
+
 }
 #content {
-  background-color: #90EE90; /*green*/
+  background-color:white; /*green*/
 }
 
 h1 {
@@ -21,13 +32,18 @@ h1 {
 }
 
 </style>
+ * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 </head>
 <body>
 
 <h1>Box Model</h1>
 
 <div id="box">
-  <div id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </div>
+  <div id="content">Mouth-watering meal straight from the Punjabi kitchen - garma garam bhature with chickpeas cooked in assorted spices. What's better than that? </div>
 </div>
 
 
