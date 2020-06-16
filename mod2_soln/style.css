@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color:light green;
+    background-color:green;
 }
 
 h1 {
@@ -12,16 +12,18 @@ h1 {
     color:black;
 }
 
-.col-lg-4 col-md-6 col-sm-12 {
-  background-image: url('paneer tikka.jfif');
-  background-repeat: no-repeat;
-  background-size: contain;
-}
+
 
 section {
     border: 1px solid black;
   
     margin: 10px;
+}
+
+.col-lg-4 col-md-6 col-sm-12 {
+  background-image: url('paneer tikka.jfif');
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 
