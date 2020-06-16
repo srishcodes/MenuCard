@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color:green;
+    background-color:#E6E6FA;
 }
 
 h1 {
@@ -16,14 +16,8 @@ h1 {
 
 section {
     border: 1px solid black;
-  
-    margin: 10px;
-}
-
-.col-lg-4 col-md-6 col-sm-12 {
-  background-image: url('paneer tikka.jfif');
-  background-repeat: no-repeat;
-  background-size: contain;
+  margin: 10px;
+  background-color:#FFDAB9
 }
 
 
@@ -32,6 +26,7 @@ section>h2 {
     float: right;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
+    border-right: 1px solid black;
     margin: 0;
     width: 230px;
     text-align: center;
@@ -45,18 +40,18 @@ section>h2 {
 
 
 section.fubini>h2 {
-   background-color: purple;
+   background-color:#F5F5F5;
 
 }
 
 section.luzin>h2 {
    
-    background-color: #10328a;
+    background-color: #F5F5F5;
     
 }
 
 section.lebesgue>h2 {
-    background-color: #76b8db;
+    background-color: #F5F5F5;
 }
 
 
@@ -202,5 +197,4 @@ section>p {
         width: 100%;
     }
 }
-
-
+}
