@@ -18,6 +18,11 @@ section {
     margin: 10px;
 }
 
+section.fubini>h2 {
+   background-image: url("paneer tikka.jfif");
+opacity:0.8
+}
+
 section>h2 {
     float: right;
     border-bottom: 1px solid black;
@@ -32,20 +37,17 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
-    background-color: #76b8db;
-    opacity:0.6;
-}
+
 
 section.fubini>h2 {
    background-color: purple;
-    opacity:0.6;
+opacity:0.8
 }
 
 section.luzin>h2 {
    
     background-color: #10328a;
-    opacity:0.6;
+    
 }
 
 section>p {
