@@ -16,6 +16,16 @@ Solutions to Modules
 
 
 
+### MODULE 3
+
+* [Solution](https://srishcodes.github.io/MenuCard/mod3_solution/)
+
+
+
+
+
+
+
 
 
 
