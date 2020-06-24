@@ -13,8 +13,10 @@ body {
 }
 
 #logo-img 
- { background: url('https://www.thepalm.com/wp-content/uploads/2017/09/PalmLogo.png') no-repeat;
-  width: 300px;
-  height: 358px;
-  margin: 5px 5px 10px 0;
+ { #logo-img 
+  background: url('../images/restaurant-logo_medium.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
 }
+
