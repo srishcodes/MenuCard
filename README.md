@@ -18,7 +18,7 @@ Solutions to Modules
 
 ### MODULE 3
 
-* [Solution](https://github.com/srishcodes/MenuCard/tree/master/mod3_solution)
+* [Solution](https://srishcodes.github.io/MenuCard/mod3_solution/)
 
 
 
