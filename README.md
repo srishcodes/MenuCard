@@ -20,6 +20,8 @@ Solutions to Modules
 
 * [Solution](https://srishcodes.github.io/MenuCard/mod3_solution/)
 
+### MODULE 4 
+* [Solution](https://srishcodes.github.io/MenuCard/mod4_soln/)
 
 
 
