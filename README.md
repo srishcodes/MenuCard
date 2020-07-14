@@ -24,8 +24,7 @@ Solutions to Modules
 * [Solution](https://srishcodes.github.io/MenuCard/mod4_soln/)
 
 ### MODULE 5
-* [Solution](https://srishcodes.github.io/MenuCard/mod5_soln/)
-
+* [Solution](https://srishcodes.github.io/MenuCard/mod5_soln/css)
 
 
 
